@@ -1,5 +1,4 @@
-# c-and-cpp-coding-standards
-C/C++ Coding Standards
+# A collection of C and C++ Coding Standards
 
 This repo is a collection of C and C++ coding standards, it contains:
 
