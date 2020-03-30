@@ -12,4 +12,4 @@ This repo is a collection of C and C++ coding standards, it contains:
 - MISRA-C:2004 Guidelines for the use of the C language in critical systems ([external link](http://caxapa.ru/thumbs/468328/misra-c-2004.pdf), [archived](https://web.archive.org/web/20200212072210/http://caxapa.ru/thumbs/468328/misra-c-2004.pdf))
 - SEI CERT: Rules for Developing Safe, Reliable, and Secure Systems
   - [CERT C Coding Standard](sei-cert-c-2016.pdf)
-  - [CERT C++ Coding Standard](sei-cert-c-2016.pdf)
+  - [CERT C++ Coding Standard](sei-cert-cpp-2016.pdf)
