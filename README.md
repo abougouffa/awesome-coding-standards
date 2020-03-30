@@ -1,7 +1,6 @@
 # A collection of C and C++ Coding Standards
 
-This repo is a collection of C and C++ coding standards, it contains:
-
+## Standard codes for safety and critical systems
 - [AUTOSAR](autosar-cpp14-2017.pdf) Guidelines for the use of the C++14 language in critical and safety-related systems
 - [BARR-C:2018 Embedded C Coding Standard](barr-c-2018.pdf)
 - ESCR Embedded System development Coding Reference guide
@@ -13,3 +12,12 @@ This repo is a collection of C and C++ coding standards, it contains:
 - SEI CERT: Rules for Developing Safe, Reliable, and Secure Systems
   - [CERT C Coding Standard](sei-cert-c-2016.pdf)
   - [CERT C++ Coding Standard](sei-cert-cpp-2016.pdf)
+
+## Other standards and coding styles
+- [GNU Coding Standards](https://www.gnu.org/prep/standards/standards.html)
+- [LLVM Coding Standards](https://llvm.org/docs/CodingStandards.html)
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- [Linux kernel coding style](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
+- [C++ Dos and Don'ts (Chromium)](https://chromium.googlesource.com/chromium/src/+/HEAD/styleguide/c++/c++-dos-and-donts.md)
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+- [Style guides for Google-originated open-source projects](https://github.com/google/styleguide)
