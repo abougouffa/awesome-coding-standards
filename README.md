@@ -1,4 +1,5 @@
-# A collection of C and C++ Coding Standards
+# Awesome Coding Standards
+A collection of C and C++ Coding Standards
 
 ## Standard codes for safety and critical systems
 - [AUTOSAR](autosar-cpp14-2017.pdf) Guidelines for the use of the C++14 language in critical and safety-related systems
