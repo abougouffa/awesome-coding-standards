@@ -13,6 +13,7 @@ A collection of C and C++ Coding Standards
 - SEI CERT: Rules for Developing Safe, Reliable, and Secure Systems
   - [CERT C Coding Standard](sei-cert-c-2016.pdf)
   - [CERT C++ Coding Standard](sei-cert-cpp-2016.pdf)
+- [JPL Institutional Coding Standard for the C Programming Language](jpl-c-1.0.pdf)
 
 ## Other standards and coding styles
 - [GNU Coding Standards](https://www.gnu.org/prep/standards/standards.html)
