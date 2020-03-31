@@ -5,7 +5,7 @@ Awesome Coding Standards: A collection of C and C++ Coding Standards
 
 ___
 
-## Standard codes for safety and critical systems
+## Coding standards for safety and critical systems
 - [AUTOSAR](autosar-cpp14-2017.pdf) Guidelines for the use of the C++14 language in critical and safety-related systems
 - [BARR-C:2018 Embedded C Coding Standard](barr-c-2018.pdf)
 - ESCR Embedded System development Coding Reference guide
