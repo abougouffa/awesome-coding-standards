@@ -27,3 +27,5 @@ ___
 - [C++ Dos and Don'ts (Chromium)](https://chromium.googlesource.com/chromium/src/+/HEAD/styleguide/c++/c++-dos-and-donts.md)
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [GCC Coding Conventions](https://gcc.gnu.org/codingconventions.html)
+- [Mozilla C++ Coding style](https://firefox-source-docs.mozilla.org/code-quality/coding-style/coding_style_cpp.html)
+- [Webkit Code Style Guidelines](https://webkit.org/code-style-guidelines/)
