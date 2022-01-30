@@ -26,5 +26,4 @@ ___
 - [Linux kernel coding style](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
 - [C++ Dos and Don'ts (Chromium)](https://chromium.googlesource.com/chromium/src/+/HEAD/styleguide/c++/c++-dos-and-donts.md)
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-- [Style guides for Google-originated open-source projects](https://github.com/google/styleguide)
 - [GCC Coding Conventions](https://gcc.gnu.org/codingconventions.html)
