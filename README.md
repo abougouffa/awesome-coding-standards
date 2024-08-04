@@ -1,7 +1,7 @@
 Awesome Coding Standards: A collection of C and C++ Coding Standards
 ===
 
-![](https://github.com/sindresorhus/awesome/blob/master/media/logo.svg)
+![Awesome logo](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg)
 
 ___
 
